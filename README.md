@@ -1,3 +1,4 @@
+![Maven Jitpack](https://img.shields.io/github/release/Kinnonii/MaterialNavigationDrawer.svg?label=JitPack%20Maven)
 MaterialNavigationDrawer
 ========================
 ##**Note:** This fork is for using the native translucent status bar for following the Material Design specs better.
