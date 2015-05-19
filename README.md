@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.Kinnonii:MaterialNavigationDrawer:1.4.0'
+    compile 'com.github.Kinnonii:MaterialNavigationDrawer:1.4.1'
 }
 ```
 If you want to use this fork, just extend the TranslucentKitKatStatusBar theme in the values-v19/styles.xml and add`<item name="android:windowTranslucentStatus">true</item>` to your styles-v21.xml. Be sure to work with dimens.xml if you have independent activities that doesn't extends from MaterialNavigationDrawer. Here are the files:
