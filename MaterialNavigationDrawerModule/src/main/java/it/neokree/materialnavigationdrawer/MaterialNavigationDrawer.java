@@ -798,7 +798,7 @@ public abstract class MaterialNavigationDrawer<Fragment> extends ActionBarActivi
     public boolean onPrepareOptionsMenu(Menu menu) {
 
         if(layout.isDrawerOpen(drawer) && !deviceSupportMultiPane()) {
-            menu.clear();
+            
         }
 
         return super.onPrepareOptionsMenu(menu);
